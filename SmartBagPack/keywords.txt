@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For SmartCommands
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartCommands	KEYWORD1	SmartCommands
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+addCommand	KEYWORD2
+addCommandWithFlag	KEYWORD2
+addCommandWithCustom	KEYWORD2
+verify	KEYWORD2
+SmartCommands   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
